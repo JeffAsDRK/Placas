@@ -1,6 +1,6 @@
 path: data
 train: images/train
 val: images/val
-task: obb
+task: object-detection
 names:
   0: Placa
